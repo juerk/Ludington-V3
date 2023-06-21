@@ -1,0 +1,1 @@
+mongodb+srv://wuerk:NjqqgFt6baCCcX9@calendar.ubk8aj1.mongodb.net/?retryWrites=true&w=majority
